@@ -1,7 +1,10 @@
-# win10script
+Forked From ChrisTitusTech (Thank You Chris!) 
+Link : https://github.com/ChrisTitusTech/win10script
+
+# Custom win10script
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
 
-## My Additions
+## My Additions (Remains Original)
 
 - Dark Mode
 - One Command to launch and run
@@ -10,10 +13,12 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 - Added Install Programs
 - Added Debloat Microsoft Store Apps
 
-## Modifications
-I encourage people to fork this project and comment out things they don't like! Here is a list of normal things people change:
+## Modifications (Some Changes)
+Some Few Changes
+
 - Uninstalling OneDrive (This is on in my script)
-- Installing Adobe, Chocolatey, Notepad++, MPC-HC, and 7-Zip
+- Installing Adobe, Chocolatey, Notepad++, VLC, and 7-Zip
+- Enable Defender (for some reason)
 
 Comment any thing you don't want out... Example:
 
